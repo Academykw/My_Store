@@ -3,7 +3,9 @@
 
 ## 📸 Screenshots
 
-| Light Mode | Dark Mode |
+![pic1](https://github.com/user-attachments/assets/ecc9274f-d2f1-4e8a-b262-dfbdfb3f4b89)
+
+![pic2](https://github.com/user-attachments/assets/526802db-fa30-4180-8bc4-2ad6c19e0e75)
 
 ## ✨ Features
 
