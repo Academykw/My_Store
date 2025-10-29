@@ -2,7 +2,7 @@
 # My Store -   This project serves as a template for building a mobile commerce platform for both Android and iOS.
 
 ## 📸 Screenshots
-
+![image alt](https://github.com/Academykw/My_Store/blob/master/pic2.jpg?raw=true)
 ![image alt](https://github.com/Academykw/My_Store/blob/master/pic1.jpg?raw=true)
 
 
