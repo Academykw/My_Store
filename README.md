@@ -3,7 +3,7 @@
 
 ## 📸 Screenshots
 
-https://github.com/Academykw/My_Store/blob/master/pic1.jpg?raw=true
+![image alt](https://github.com/Academykw/My_Store/blob/master/pic1.jpg?raw=true)
 
 
 
