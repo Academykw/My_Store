@@ -83,26 +83,11 @@ class ProductDetailScreen extends StatelessWidget {
                         ),
                       ),
                       SizedBox(width: 15),
-                      Expanded(
-                        child: _buildInfoCard(
-                          'Price',
-                          '\${product.price.toStringAsFixed(2)}',
-                          Icons.attach_money,
-                          Colors.green,
-                        ),
-                      ),
+
                     ],
                   ),
                   SizedBox(height: 15),
 
-                  // Total Value Card
-                  _buildInfoCard(
-                    'Total Value',
-                    '\${(product.quantity * product.price).toStringAsFixed(2)}',
-                    Icons.calculate,
-                    Colors.orange,
-                  ),
-                  SizedBox(height: 30),
 
                   // Additional Information
                   Text(
